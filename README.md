@@ -16,7 +16,7 @@ Place the three CSV files in a folder (e.g., `large/`), then run:
 python degrees.py large
 
 
-📦 Sample Output
+## 📦 Sample Output
 
 Name: Emma Watson
 Name: Jennifer Lawrence
